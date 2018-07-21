@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Game\ class\ displays\ the\ menu,\r\nlets\ players\ select\ the\ options\ they\ want\ to\ choose\ to\ play\ ,\ \r\ncontains\ the\ methods\ that\ creates\ a\ player\ ,\ checks\ if\ the\ guess\ is\ correct\ \r\nand\ decides\ the\ price\ that\ the\ player\ has\ won\ \r\nit\ also\ computes\ the\ prizes\ and\ the\ money\ spend\ by\ the\ player\ \r\n\ @Anjali\ Varghese\r\n\ @created\ on\ 18/08/2017\r\n
+comment1.params=
+comment1.target=Game()
+comment2.params=
+comment2.target=void\ displayMenu()
+comment3.params=
+comment3.target=void\ guessPrice()
+comment4.params=guessedNumber
+comment4.target=void\ checkPrize(java.lang.String)
+comment5.params=
+comment5.target=void\ playerDetails()
+comment6.params=
+comment6.target=void\ instructions()
+comment7.params=name
+comment7.target=boolean\ isNameaccepted(java.lang.String)
+comment8.params=y
+comment8.target=boolean\ isStringnumeric(java.lang.String)
+comment9.params=
+comment9.target=void\ status()
+numComments=10

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Prize
+comment0.text=\r\n\ Prize\ class\ determines\ the\ prizes\ and\ the\ prizeworth\ of\ the\ wins\ \r\n\r\n\ @author\ Anjali\ Varghese\r\n\ @version\ 05/09/2017\r\n
+comment1.params=number
+comment1.target=java.lang.String\ prize(java.lang.String)
+comment2.params=number
+comment2.target=int\ prizeWorth(java.lang.String)
+numComments=3
